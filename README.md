@@ -10,8 +10,7 @@
 
 <!-- ABOUT THE PROJECT -->
 <h2 align="center">📝Description </h2>
-EventEase is a decentralised platform based on blockchain through which users users can buy tickets for any event occuring in any corner of the world.
-
+EventEase, a blockchain-based decentralized platform, empowers users to seamlessly purchase tickets for global events. With a secure and transparent system, it offers a hassle-free experience using the power of Smart Contracts 
 <br/>
 <br/>
 
@@ -44,7 +43,7 @@ EventEase is a decentralised platform based on blockchain through which users us
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<h2 align="center">👨‍💻Team Members</h2> 
+<h2 align="center">👨‍💻Build by</h2> 
 
 
 - [Vedhas Naik- ](https://github.com/NaikVedhas) [LinkedIn](https://www.linkedin.com/in/vedhas-naik-005378253/) 
