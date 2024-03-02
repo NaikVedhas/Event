@@ -53,3 +53,5 @@ EventEase is a decentralised platform based on blockchain through which users us
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Solidity-url]: https://soliditylang.org/
+[Remix-url]: https://remix-project.org/
+[Metamask-url]: https://metamask.io/
