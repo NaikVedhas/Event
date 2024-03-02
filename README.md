@@ -42,7 +42,6 @@ EventEase, a blockchain-based decentralized platform, empowers users to seamless
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <h2 align="center">👨‍💻Build by</h2> 
 
 
