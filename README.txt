@@ -1,28 +1,55 @@
-REMIX DEFAULT WORKSPACE
+<div align="center">
+   <h1>EventEase</h1>
+  <p align="center">
+    <h2> <i> Where Every Ticket Tells a Memorable Story!</i> </h2>
+  </p>
+</div>
 
-Remix default workspace is present when:
-i. Remix loads for the very first time 
-ii. A new workspace is created with 'Default' template
-iii. There are no files existing in the File Explorer
 
-This workspace contains 3 directories:
 
-1. 'contracts': Holds three contracts with increasing levels of complexity.
-2. 'scripts': Contains four typescript files to deploy a contract. It is explained below.
-3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
 
-SCRIPTS
+<!-- ABOUT THE PROJECT -->
+<h2 align="center">📝Description </h2>
+EventEase is a decentralised platform based on blockchain through which users users can buy tickets for any event occuring in any corner of the world.
 
-The 'scripts' folder has four typescript files which help to deploy the 'Storage' contract using 'web3.js' and 'ethers.js' libraries.
+<br/>
+<br/>
 
-For the deployment of any other contract, just update the contract's name from 'Storage' to the desired contract and provide constructor arguments accordingly 
-in the file `deploy_with_ethers.ts` or  `deploy_with_web3.ts`
+<h2 align="center">🔮Key attributes</h2>
 
-In the 'tests' folder there is a script containing Mocha-Chai unit tests for 'Storage' contract.
+- [x] Limited Tokens and Token-to-Ticket Conversion for all events!
+- [x] Special benefits like reserved seats for token holders
+- [x] Can buy any seat of any event
+- [x] Payment through Cryptocurrency 
+- [x] Only owner can add events 
 
-To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
-Output from script will appear in remix terminal.
 
-Please note, require/import is supported in a limited manner for Remix supported modules.
-For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
-For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
+
+
+
+<h2 align="center">🛠Built With</h2> 
+
+## Smart Contract:
+ <br/>
+ 
+* [Solidity][Solidity-url]
+* [Remix IDE][Remix-url]
+* [Metamask][Metamask-url]
+  <br/>
+ 
+
+
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<h2 align="center">👨‍💻Team Members</h2> 
+
+
+- [Vedhas Naik- ](https://github.com/NaikVedhas) [LinkedIn](https://www.linkedin.com/in/vedhas-naik-005378253/) 
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Solidity-url]: https://soliditylang.org/
