@@ -145,9 +145,5 @@ function showTickets(uint id) view  public returns(uint) {
     }
 
 
-    //Contract is ready but sirf jo occcassionManager hai usko paise bhejne hai uska likho function also isme ek loophole hai ki like when i am a golden user main woh agar event jyada costly hoga than our normal goldtoken price then hum kaha se paise denge na.as contract mein utne paise hi nhai hai na 
-    //So abhi ke liye main har event ki cost less rakh raha hu than our token cost 
-
-
 
 }
